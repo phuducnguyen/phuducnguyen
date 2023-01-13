@@ -31,9 +31,7 @@ I'm an indie developer building my version of the tech world on step at a time. 
 
 ### 📊 Stats
 
-![DucPhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuducnguyen&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=phuducnguyen&theme=gruvbox&border_radius=4.5)-->
+[![Mew's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuducnguyen&count_private=true&show_icons=true&theme=transparent)]
 
 #
 
