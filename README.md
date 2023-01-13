@@ -31,7 +31,7 @@ I'm an indie developer building my version of the tech world on step at a time. 
 
 ### 📊 Stats
 
-[![Mew's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuducnguyen&count_private=true&show_icons=true&theme=transparent)]
+![Mew's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phuducnguyen&count_private=true&show_icons=true&theme=transparent)
 
 #
 
