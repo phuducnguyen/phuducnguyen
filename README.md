@@ -2,7 +2,7 @@
 
 **`Tech Craftsman`**
 
-I'm an indie developer building my version of the tech world on step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an indie developer building my version of the tech world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
@@ -31,12 +31,12 @@ I'm an indie developer building my version of the tech world on step at a time. 
 
 ### 📊 Stats
 
-![Mew's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phuducnguyen&count_private=true&show_icons=true&theme=transparent)
-
+![](https://raw.githubusercontent.com/phuducnguyen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/phuducnguyen/github-stats/master/generated/languages.svg#gh-light-mode-only)
 #
 
 <details>
   <summary><h3>👨‍💻 DucPhu's Coding Journey</h3></summary>
-    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, Unix, Linux, and theory. At first, I struggled with how to learn technology, programming and of course I was lost at that time. And all the while, teaching myself Java development with a dream of building my own app and learning about Linux and open-source (no more BLUESCREEN :3). With the desire to get a full-time software engineer job upon graduation. Don't wait up, because I'm coming.
+    I started my coding journey as a naive computer science student passionate about learning everything I could about this programming world - code, Unix, Linux, and theory. At first, I struggled with how to understand technology and programming and of course, I was lost at that time. And all the while, teaching myself Java development with a dream of building my own app and learning about Linux and open-source (no more BLUESCREEN :3). With the desire to get a full-time software engineer job upon graduation. Don't wait up, because I'm coming.
 
 <!-- [website]: deploy soon -->
