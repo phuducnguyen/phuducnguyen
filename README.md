@@ -32,7 +32,7 @@ I'm an indie developer building my version of the tech world one step at a time.
 ### 📊 Stats
 
 ![](https://raw.githubusercontent.com/phuducnguyen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/phuducnguyen/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/phuducnguyen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 #
 
 <details>
