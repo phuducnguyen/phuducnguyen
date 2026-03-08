@@ -1,85 +1,74 @@
-# 🧗D. Phu Ng. Portfolio
-CEO at VERO(CO) Technology Limited Company. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
-
+<!-- Profile View Counter -->
 <img align="right" src="https://komarev.com/ghpvc/?username=phuducnguyen">
 
+<!-- Introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Xin+Chào!!+👋;+CEO+Veroco!;&center=true&font=Inter&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Hero+MMO+🇻🇳!;Tips+Tuts+Tools;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
 <br />
-
+<!-- About me -->
 <p align="center">
-  D. Phu. Ng, Software Developer on the road to becoming a Solution Architect 💻, OpenMind x OpenSource 👨‍💻 from Vietnam.
-  <br />
-  <br />
-  🎓 CEO #VEROCO / [veroco] .net .digital
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I work full-time at VEROCO - One-Stop Digital Solution for Company, Business, and You.  
-  <br />
-  🚀 Currently building advanced SMM Panel solutions with modern tech stack
-  <br />
+  Hi, I'm <b>D Phu Nguyen</b> 👋 <br>
+  Web Developer • Product Builder • Indie Maker 💻 <br>
+  I turn messy problems into simple products that just work.
+  <br/>
 </p>
-
-<div align="center"> 
-  <a href="https://www.youtube.com/@" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <a href="mailto:contact@meweluk.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="center">
+  🚀 Focused on building useful web tools and internet products <br/>
+  💻 Working with modern web technologies and automation <br/>
+  🧠 Always learning, building, and shipping new ideas <br/>
+  🌐 Interested in SaaS, developer tools, and online business
+</p>
+<p align="center">
+  <b>Current focus</b><br>
+  ⚡ Automation <br>
+  🚀 Micro-SaaS <br>
+  🛠 Developer tools <br>
+  🤖 AI-powered utilities
 </div>
 
-<hr />
+<p align="center">
+  <i>Ship. Learn. Improve. Repeat.</i>
+</p>
+<div align="center"> 
+  <a href="mailto:sillycat@duck.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
+<hr>
+<!-- Develop Skills -->
 <h2 align="center">🔥 Tech Stack & Expertise 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- First Row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+      <!-- Second Row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
+
+  </a>
+</p>
 <br />
 
+<!-- Deployment & DevOps -->
+<h3 align="center">Deployment & DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,nodejs,express,git,figma&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,nodejs,express,git,figma&theme=light" />
-          <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,nodejs,express,git,figma&theme=light" alt="Frontend & Tools" />
-      </picture>
-      <br />
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,firebase,supabase,graphql,docker&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,firebase,supabase,graphql,docker&theme=light" />
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,firebase,supabase,graphql,docker&theme=light" alt="Backend & Databases" />
-      </picture>
-  </a>
-</p>
-
-<h3 align="center">Current Development Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,vite,nodejs,tailwind&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,vite,nodejs,tailwind&theme=light" />
-          <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,tailwind&theme=light" alt="Current Stack" />
-      </picture>
-  </a>
-</p>
-
-<h3 align="center">Development & Deployment Workflow</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify,aws,docker&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify,aws,docker&theme=light" />
-          <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,docker&theme=light" alt="Deployment Tools" />
-      </picture>
+       <img src="https://skillicons.dev/icons?i=linux,vim,docker,nginx,bash,git,cloudflare,vercel&perline=8" />
   </a>
 <br />
-<a href="https://www.logalert.app">
-  <img src="https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge" alt="Log Alert" />
-</a>
-</p>
 
-<hr />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
