@@ -8,7 +8,6 @@
   </a>
 </h1>
 
-<br />
 <!-- About me -->
 <p align="center">
   Hi, I'm <b>D Phu Nguyen</b> 👋 <br>
@@ -37,10 +36,8 @@
   <a href="mailto:sillycat@duck.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<hr>
 <!-- Develop Skills -->
 <h2 align="center">🔥 Tech Stack & Expertise 🔥</h2>
-<br>
 <p align="center">
   <a href="https://skillicons.dev">
       <!-- First Row -->
@@ -59,7 +56,6 @@
 
   </a>
 </p>
-<br />
 
 <!-- Deployment & DevOps -->
 <h3 align="center">Deployment & DevOps</h3>
@@ -67,29 +63,10 @@
   <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=linux,vim,docker,nginx,bash,git,cloudflare,vercel&perline=8" />
   </a>
-<br />
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=phuducnguyen&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=phuducnguyen&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=phuducnguyen&theme=default&border=61dafb" alt="Streak Stats" />
-      </picture>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phuducnguyen&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=phuducnguyen&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=phuducnguyen&show_icons=true&theme=default&border_color=61dafb" alt="GitHub Stats" />
-      </picture>
-    </a>
-  </div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phuducnguyen&theme=dark&border_radius=16.9&short_numbers=true&date_format=%5BY%20%5DM%20j&hide_longest_streak=true" alt="GitHub Streak" /></a>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=phuducnguyen&theme=react-dark" />
@@ -97,18 +74,11 @@
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=phuducnguyen&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Contribution Graph" />
     </picture>
   </a>
-</p>
+</div>
 
-<br /><br /><br /><br /><br />
-
-<h3 align="center">🔥 Recent Projects 🔥</h3>
-
-<p align="center">
-  <b>🚀 SMM Panel Solution</b><br>
-  A modern social media marketing panel built with React, TypeScript, and TailwindCSS.<br>
-  Technologies: React, TypeScript, Vite, Node.js, TailwindCSS, MongoDB
-</p>
-
+<hr>
+<h3 align="center">🔥 Recent Business 🔥</h3>
+<p align="center">Build ecosystem for my passive income</p>
 <h4 align="center">
-  <a href="https://github.com/phuducnguyen?tab=repositories" title="Show Repositories">🔎 Discover VEROCO World 🔍</a>
+  <a href="https://github.com/phuducnguyen?tab=repositories" title="Show Repositories">🔎 Discover Hero MMO World </a>
 </h4>
