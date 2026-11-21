@@ -1,84 +1,80 @@
 <!-- Profile View Counter -->
-<img align="right" src="https://komarev.com/ghpvc/?username=phuducnguyen">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=phuducnguyen" alt="Profile views">
+</p>
 
 <!-- Introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Hero+MMO+🇻🇳!;Tips+Tuts+Tools;&center=true&font=Righteous&size=35">
-  </a>
-</h1>
-
-<!-- About me -->
-<p align="center">
-  Hi, I'm <b>D Phu Nguyen</b> 👋 <br>
-  Web Developer • Product Builder • Indie Maker 💻 <br>
-  I turn messy problems into simple products that just work.
-  <br/>
-</p>
-<p align="center">
-  🚀 Focused on building useful web tools and internet products <br/>
-  💻 Working with modern web technologies and automation <br/>
-  🧠 Always learning, building, and shipping new ideas <br/>
-  🌐 Interested in SaaS, developer tools, and online business
-</p>
-<p align="center">
-  <b>Current focus</b><br>
-  ⚡ Automation <br>
-  🚀 Micro-SaaS <br>
-  🛠 Developer tools <br>
-  🤖 AI-powered utilities
-</div>
+<h1 align="center">Hi, I'm Phu 👋</h1>
 
 <p align="center">
-  <i>Ship. Learn. Improve. Repeat.</i>
+  <strong>Product Builder · Indie Maker · Web Developer</strong><br>
+  I turn practical problems into useful products, tools, and online businesses.
 </p>
-<div align="center"> 
-  <a href="mailto:sillycat@duck.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-<!-- Develop Skills -->
-<h2 align="center">🔥 Tech Stack & Expertise 🔥</h2>
+<p align="center">
+  🚀 Building browser products, AI workflows, and internet tools<br>
+  💼 Interested in SaaS, automation, and product-led businesses<br>
+  🇻🇳 Building from Vietnam for users everywhere
+</p>
+
+<p align="center"><em>Build useful things. Ship them. Keep improving.</em></p>
+
+<p align="center">
+  <a href="mailto:sillycat@duck.com"><img src="https://img.shields.io/badge/Email-Contact%20me-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/phuducnguyen?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
+</p>
+
+## 💼 Product & Business Focus
+
+I focus on building practical products and business tools across a few areas:
+
+- **Browser products:** profile-based browsing, privacy, and browser diagnostics.
+- **AI content workflows:** turning ideas and visual references into organized image and video pipelines.
+- **Automation & SaaS:** tools that reduce repetitive work and make online operations easier to manage.
+- **Independent product building:** validating ideas, shipping useful features, and improving products through iteration.
+
+## 🧰 Skills & Tech Stack
+
+**Product:** Product building · SaaS concepts · Workflow design · Automation · Indie business
+
+**Current tools:** TypeScript · JavaScript · React · Python · FastAPI · SQLite · Chrome Extensions (Manifest V3) · HTML/CSS
+
+**Also used in past projects:** Java · Spring Boot · PHP · PostgreSQL
+
 <p align="center">
   <a href="https://skillicons.dev">
-      <!-- First Row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
-        </picture>
-          <br />
-      <!-- Second Row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
-        </picture>
-
+    <img src="https://skillicons.dev/icons?i=ts,js,react,python,fastapi,sqlite,html,css,java,spring,php,postgres&perline=12" alt="Tech stack">
   </a>
 </p>
 
-<!-- Deployment & DevOps -->
-<h3 align="center">Deployment & DevOps</h3>
+## ⚡ GitHub Stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=linux,vim,docker,nginx,bash,git,cloudflare,vercel&perline=8" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phuducnguyen&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuducnguyen&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
+</p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phuducnguyen&theme=dark&border_radius=16.9&short_numbers=true&date_format=%5BY%20%5DM%20j&hide_longest_streak=true" alt="GitHub Streak" /></a>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=phuducnguyen&theme=react-dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=phuducnguyen&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=phuducnguyen&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Contribution Graph" />
-    </picture>
-  </a>
-</div>
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=phuducnguyen&theme=github-compact&hide_border=true" alt="GitHub contribution activity">
+</p>
 
-<hr>
-<h3 align="center">🔥 Recent Business 🔥</h3>
-<p align="center">Build ecosystem for my passive income</p>
-<h4 align="center">
-  <a href="https://github.com/phuducnguyen?tab=repositories" title="Show Repositories">🔎 Discover Hero MMO World </a>
-</h4>
+## 🚀 Featured Products & Projects
+
+### [Hero Browser](https://github.com/phuducnguyen/hero-browser-releases)
+A browser product for managing multiple browser profiles and privacy-focused web operations. The source code is private; this public repository provides Windows installers and release notes.
+
+### [Hero X-Ray](https://github.com/phuducnguyen/hero-xray) · [Open the tool](https://xray.herommo.com/)
+A browser diagnostics tool that shows what a website can observe about a browser, including IP, location, WebRTC, and fingerprint consistency. Useful for checking a browsing setup and spotting mismatches.
+
+### [Flowboard](https://github.com/phuducnguyen/ai-flow-automator)
+A local visual workspace for AI media workflows. Connect characters, products, images, scenes, and videos as reusable nodes to organize content-generation projects.
+
+### [Flow Kit](https://github.com/phuducnguyen/flowkit)
+A local AI video-production workflow that helps turn a story into generated scenes, video clips, narration, thumbnails, and publish-ready outputs.
+
+## 🗂️ Earlier Projects
+
+- [Cartify E-commerce](https://github.com/phuducnguyen/cartify-ecommerce) — a Java and Spring Boot shopping website project, built to practice full-stack e-commerce development.
+- [Dental Clinic Management System](https://github.com/phuducnguyen/Dental-Clinic-Management-System) — a PHP and PostgreSQL management system concept for a multi-location dental clinic.
+
+<p align="center"><i>Most interested in products that solve real problems and can grow into sustainable businesses.</i></p>
