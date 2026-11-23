@@ -72,6 +72,15 @@ A local visual workspace for AI media workflows. Connect characters, products, i
 ### [Flow Kit](https://github.com/phuducnguyen/flowkit)
 A local AI video-production workflow that helps turn a story into generated scenes, video clips, narration, thumbnails, and publish-ready outputs.
 
+### Koru · Private
+Real-time face-swap and offline video-generation application for Windows, with face-quality checks built into the workflow. **Private project — contact me to get your solution.** [Contact me](mailto:sillycat@duck.com).
+
+### Image Lab · Private
+A deterministic, profile-driven image-processing workbench for Windows, designed to make repeatable image tasks simple from a single screen. **Private project — contact me to get your solution.** [Contact me](mailto:sillycat@duck.com).
+
+### HeroMorph · Private
+An AI-powered real-time face-swapping experience for live camera and video workflows. **Private project — contact me to get your solution.** [Contact me](mailto:sillycat@duck.com).
+
 ## 🗂️ Earlier Projects
 
 - [Cartify E-commerce](https://github.com/phuducnguyen/cartify-ecommerce) — a Java and Spring Boot shopping website project, built to practice full-stack e-commerce development.
